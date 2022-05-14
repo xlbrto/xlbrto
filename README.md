@@ -73,14 +73,14 @@
 <br/>  
 
 
-### Recent Blog Posts  
+### Latest Blog Post  
 <!-- BLOG-POST-LIST:START -->
 - [On Privacy](https://notes.xlbrto.com/32842/on-privacy)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=compact" align="center" style="width: 25%"/></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 50%"/></div>  
 
 <br/>  
 
