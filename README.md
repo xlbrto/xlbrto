@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
   
 
@@ -87,7 +87,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%" />  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=compact" align="center" style="width: 100%" />  
 
 <br/>  
 
