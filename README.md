@@ -87,7 +87,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=compact" align="center" style="width: 50%" />  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=compact" align="center" style="width: 25%"/>  
 
 <br/>  
 
@@ -97,6 +97,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
