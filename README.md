@@ -74,7 +74,8 @@
 
 
 ### Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [On Privacy](https://notes.xlbrto.com/32842/on-privacy)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
