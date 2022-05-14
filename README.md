@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
-</div>  
-  
-
 ### <div align="center">I'm Alberto, a part-time full-stack web dev 🚀</div>  
   
 
@@ -59,8 +54,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/xlbrto" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -87,7 +80,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=compact" align="center" style="width: 25%"/>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=compact" align="center" style="width: 25%"/></div>  
 
 <br/>  
 
