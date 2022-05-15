@@ -12,8 +12,8 @@
 <a href="https://xlbrto.com/" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/xlbrto" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<a href="#" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codewars.com/users/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
