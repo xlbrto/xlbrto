@@ -80,7 +80,7 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 <br/>  
 
 
-<h2 align="center">Notes</h2>
+<h2 align="center">Some Thoughts</h2>
 <br>
 
 <!-- BLOG-POST-LIST:START -->
