@@ -73,9 +73,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>
 
-## Now Listening
+## 
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=_coronado&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" align="center" style="width: 100%"/></div>  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado&count=3" align="center" style="width: 100%"/></div>  
 
 <br/>  
 
