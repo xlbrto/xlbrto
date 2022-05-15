@@ -75,6 +75,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 ## 
 
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado&count=3" align="center" style="width: 100%"/></div>  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado&count=2" align="center" style="width: 100%"/></div>  
 
 <br/>
