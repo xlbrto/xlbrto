@@ -78,15 +78,17 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 <br/>  
 
 
-## Latest notes  
+<h2 align="center">Notes</h2>
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 - [On Privacy](https://notes.xlbrto.com/32842/on-privacy)
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>
 
 ## 
 
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado&count=2" align="center" style="width: 100%"/></div>  
 
 <br/>
+<!-- Did you really get to the bottom of the code? Shoutout to you. 
+After I got a basic template together, it was pretty simple to customize it to my liking, hence all the commits.  -->
