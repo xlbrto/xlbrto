@@ -42,7 +42,7 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 <tr><td valign="top" width="50%">
 <br>
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working with a freelance client   
   
 
 - 🌱 I’m currently improving my JavaScript skills
