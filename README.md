@@ -1,6 +1,7 @@
-## Hey 👋, I'm Alberto!  
+<h1 align="center">Hey 👋, I'm Alberto!</h1> 
   
-
+<br>
+<br>
 <div align="center">
 <a href="https://twitter.com/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -11,12 +12,13 @@
 <a href="https://t.me/xlbrto">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div> 
+<br>
   
 
 
 
-### Happy to see you here!
+<h2 align="center">Happy to see you here!</h2><br>
 I’m a ~~construction worker~~ interior remodeler by day, ~~junior~~ software engineer by night. 
 
 Highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
@@ -28,7 +30,7 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 <br/>  
 
 
-## Q&A  
+<h2 align="center">Q&A</h2>  
 <tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on   
@@ -50,7 +52,7 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 <br/>  
 
 
-## Technologies  
+<h2 align="center">Technologies</h2>  
 <div align="center">
 <!-- <br/>   -->
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlbrto&theme=blue-green" align="center" /></div>  -->
