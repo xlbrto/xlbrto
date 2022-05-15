@@ -18,7 +18,9 @@
 
 
 
-<h2 align="center">Happy to see you here!</h2><br>
+<h2 align="center">Happy to see you here!</h2>
+<br>
+
 I’m a ~~construction worker~~ interior remodeler by day, ~~junior~~ software engineer by night. 
 
 Highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
@@ -27,11 +29,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
 
-<br/>  
+Feel free to check out my [website](https://xlbrto.com/) for more information.
 
+<!-- <br/>   -->
 
 <h2 align="center">Q&A</h2>  
 <tr><td valign="top" width="50%">
+<br>
 
 - 🔭 I’m currently working on   
   
