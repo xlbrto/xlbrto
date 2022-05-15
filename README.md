@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋🏼, I'm Alberto!</h1> 
+<h1 align="center">hello-world, I'm Alberto! 👋🏼</h1> 
   
 <!-- <br>
 <br> -->
@@ -46,7 +46,7 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 - 🌱 I’m currently improving my JavaScript skills
   
 
-- 💬 Ask me about anything related to privacy and encryption  
+- 💬 Ask me about anything related to privacy and encryption .. or anything, really. 
   
 
 - ⚡ Fun fact: I'm a righty but I kick with my left leg  
