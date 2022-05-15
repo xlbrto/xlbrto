@@ -16,11 +16,14 @@
 
 
 
-### Happy to see you here!  
-I’m a highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+### Happy to see you here!
+I’m a ~~construction worker~~ interior remodeler by day, ~~junior~~ software engineer by night. 
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful. I also blog about my world behind the screen which involves privacy, security, software, optimization and also promising technologies like Blockchain and PWAs.  
-  
+Highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
+
+I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful. I also blog about my world behind the screen which involves privacy, security, software, optimization and also promising technologies like PWAs.
+
+Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
 
 <br/>  
 
