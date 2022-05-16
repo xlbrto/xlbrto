@@ -92,7 +92,7 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 <h2 align="center">Public Key</h2>
 
 <details>
-<summary><b><h3 align="center">🔒</h3></b></summary>
+<summary><b><h3>🔒</h3></b></summary>
 <br/>
 
 ```
@@ -133,7 +133,7 @@ Xzntwx5Kq4FN0RY/Dmw1SG2lTB3dFpnNHg==
 
 
 ## 
-
+<br>
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado&count=2" align="center" style="width: 100%"/></div>  
 
 <br/>
