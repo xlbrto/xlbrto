@@ -1,4 +1,4 @@
-<h1 align="center">hello-world, I'm Alberto! 👋🏼</h1> 
+<h1 align="center">hello-world, I'm <a href="https://xlbrto.com/">Alberto</a>! 👋🏼</h1> 
   
 <!-- <br>
 <br> -->
@@ -34,9 +34,9 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
 
-Feel free to check out my [website](https://xlbrto.com/) for more information.
 
-<!-- <br/>   -->
+
+<br/>  
 
 <h2 align="center">Q&A</h2>  
 <tr><td valign="top" width="50%">
