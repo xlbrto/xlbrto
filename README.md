@@ -97,8 +97,10 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 <br/>
 
 ```
------BEGIN PGP PUBLIC KEY BLOCK-----
   
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: ProtonMail
+
 xsBNBFxkpvMBCADTBkvDHFBBfJcLAsdpSs10oWEr8hsTGEilvJ39WQx40QeU
 qC38tlSi4EEpxd3iitQsWvvosEMTL+uaNhg1CDpdNau4E2e8QVDXjRUuGZsp
 sBUTP4RJqRWE3CxIJmvANHzy7XBPoFUFv+BQG7MA8061VODPxcxXq+1oMalX
