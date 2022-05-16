@@ -12,7 +12,7 @@
 <a href="https://xlbrto.com/" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a>
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/xlbrto/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.codewars.com/users/xlbrto" target="_blank">
