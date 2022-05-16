@@ -88,6 +88,51 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 <!-- BLOG-POST-LIST:END -->  
 
 ## 
+<br>
+<h2 align="center">Public Key</h2>
+
+<details>
+<summary><b><h3 align="center">🔒</h3></b></summary>
+<br/>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+  
+xsBNBFxkpvMBCADTBkvDHFBBfJcLAsdpSs10oWEr8hsTGEilvJ39WQx40QeU
+qC38tlSi4EEpxd3iitQsWvvosEMTL+uaNhg1CDpdNau4E2e8QVDXjRUuGZsp
+sBUTP4RJqRWE3CxIJmvANHzy7XBPoFUFv+BQG7MA8061VODPxcxXq+1oMalX
+UxmUUuEEyKexAtd2aBnCPVGW8dXiBFkqBWs2opPVJ7cJ53BjrCluxe7UMVo0
+IKw6PH2FC5zXuAMo13pxlCMFmc1ycJGK+orz0e44ufWq7qowOP+6n0820qfe
+iYXRiEg7AuGbnZglmZCn5kb7ZRhuSLV/JxmpYNjsbSv4A4Am+ULMtOOxABEB
+AAHNLyJhbGJlcnRvY29yb25hZG9AcG0ubWUiIDxhbGJlcnRvY29yb25hZG9A
+cG0ubWU+wsB1BBABCAAfBQJcZKbzBgsJBwgDAgQVCAoCAxYCAQIZAQIbAwIe
+AQAKCRBUFQmX8H+7CgpIB/sFHWOw3/8mOuWAQqhq+a2sCFEQuRtCYfRzAp8q
+mExKAF0gNY32pOltLwZXXE/oGaAS/GEgN0hRAQtt8OeUSLjDbMZbJqHbeEeN
+evWv6e3mVllyaHXhFbdUGbkfjFfs/AmHYoElRgxq8xJTVqEYJiOuxP00c+BN
+UIbqV9EtB5PcGetynlBNoG3MP+8mv19h0rOoWhU1ARHThXl6uARCp9M44nKA
+jwT0FOvWQpCzCnC+7oYuTA9Qw4T1roA2P5WG3K2XGrPMf6wIXrcCJH3tY1EI
+NDdbI/i3+voqqu8B7ocWKNgKBrqoP1pr8CzJntsVOXdoB7OD1phiuYMvhUEg
+OWOAzsBNBFxkpvMBCAC3OiBcMIWeZR108slF5xvujCqdyDRTkGmC+okvmoKD
+qKeVXoWhUvVb4Fg1qjyzRGHI/kJyxTUHnHfNOfuh8TZQTAgoRXaQcpI3a5SJ
+cKIHC0Yilh/lZXWxrslqTVzuvECfs/xz1HYSUaXozMJQH3V5x270hGammyBq
+whCv1gtkOvXWvift8YKrXELzMAiy8hX7eSKAy5EePrYpAhswXRovYNI7rZry
+pDvJGJiyEdx9e9Ja9joSN0+tGQudhjflCnwomDyVFI0BgY0V8QPlL+Hn/qbx
+kgVjtrWe4ey6fWExkMTiHc0D73b3j54gPQQJDxyoOXiR1JXCxFPn7w8fBn7b
+ABEBAAHCwF8EGAEIAAkFAlxkpvMCGwwACgkQVBUJl/B/uwoiCwgAtDuq5as1
+r+lRxkSHmDxg+TRThTa8g8UBb9xhQb+muK4WGEmW7g568yeTKdbzhTSTpmv1
+Rt+0FJKd64bjtEYbA8KHmH55Bm/HA7ifepVsNBzCl8zQInOCWgkPzMJGibIr
+xLJ3NI5uOSRIyWxgX7N5xsY/kMaV+Hu8qXd68Bf+dos0Vyr0gIK0vUm6acoO
+o4IVQfrBeZVA1e1aM4QjtFd3si9d6w4kqhYAjYrLOdOHehjJ8bqXpBrHpbSl
+5nlrcNBAFx+aIdSYYw0hCwbuJXt6QJL/vLfSu5kmSVCEqpk5Lutgpph89bni
+Xzntwx5Kq4FN0RY/Dmw1SG2lTB3dFpnNHg==
+=cmzG
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+</details>
+
+
+## 
 
 <div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado&count=2" align="center" style="width: 100%"/></div>  
 
