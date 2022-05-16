@@ -92,7 +92,7 @@ Feel free to check out my [website](https://xlbrto.com/) for more information.
 <h2 align="center">Public Key</h2>
 
 <details>
-<summary><b><h3>🔒</h3></b></summary>
+<summary><h3>🔒</h3></summary>
 <br/>
 
 ```
