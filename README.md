@@ -30,7 +30,7 @@ I’m a ~~construction worker~~ interior remodeler by day, ~~junior~~ software e
 
 Highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful. I also blog about my world behind the screen which involves privacy, security, software, optimization and also promising technologies like PWAs.
+I build robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful. I also blog about my world behind the screen which involves privacy, security, software, optimization and also promising technologies like PWAs.
 
 Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
 <br>
@@ -83,16 +83,16 @@ My personal site includes my portfolio, alternative ways of getting in touch wit
 
 </td></tr>  
 
-<br/>  
+<!-- <br/>  
 
 
-<h2 align="center">TECHNOLOGIES</h2>  
+<!-- <h2 align="center">TECHNOLOGIES</h2>  
 <div align="center">
 <!-- <br/>   -->
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlbrto&theme=blue-green" align="center" /></div>  -->
 <br>  
   
-<br/>
+<!-- <br/>
 <img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="25" />
 <img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="25" />
 <img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25" />   
@@ -102,7 +102,7 @@ My personal site includes my portfolio, alternative ways of getting in touch wit
 <img style="margin: 10px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="25" />
 <img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="25" />
 </div>  
-<br/>  
+<br/>   -->
 
 
 <h2 align="center">THOUGHTS</h2>
