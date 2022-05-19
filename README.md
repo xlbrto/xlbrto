@@ -105,7 +105,7 @@ My personal site includes my portfolio, alternative ways of getting in touch wit
 <br/>  
 
 
-<h2 align="center">Some Thoughts</h2>
+<h2 align="center">THOUGHTS</h2>
 <br>
 
 <!-- BLOG-POST-LIST:START -->
