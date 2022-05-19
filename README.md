@@ -23,7 +23,7 @@
   
 
 
-<h2 align="center">Happy to see you here!</h2>
+<h2 align="center">HAPPY TO SEE YOU HERE!</h2>
 <br>
 
 I’m a ~~construction worker~~ interior remodeler by day, ~~junior~~ software engineer by night. 
@@ -36,12 +36,12 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 <br>
 
 <br>
-<h2 align="center">Projects</h2>
+<h2 align="center">PROJECTS</h2>
 <br>
 <table bordercolor="#66b2b2">
 </td><td valign="top" width="100%">
 <br>
- My site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?). Just having fun with it.<br>
+My personal site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?). Just having fun with it.<br>
 
 <br>  
 <div align="center">
@@ -86,7 +86,7 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 <br/>  
 
 
-<h2 align="center">Technologies</h2>  
+<h2 align="center">TECHNOLOGIES</h2>  
 <div align="center">
 <!-- <br/>   -->
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlbrto&theme=blue-green" align="center" /></div>  -->
@@ -114,7 +114,7 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 
 ## 
 <br>
-<h2 align="center">Public Key</h2>
+<h2 align="center">PUBLIC KEY</h2>
 
 <details>
 <summary><b>🔒&nbsp;</b></summary>
