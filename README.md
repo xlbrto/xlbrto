@@ -37,9 +37,10 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 
 <br>
 <h2 align="center">Projects</h2>
-
+<br>
 <table bordercolor="#66b2b2">
-<table><tr><td valign="top" width="30%">
+</td><td valign="top" width="100%">
+
 <br>
 My personal website was created using the following languages:<br>
 
@@ -50,17 +51,15 @@ My personal website was created using the following languages:<br>
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25">
 </div>
 <br>
-My site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?).
-
-</td><td valign="top" width="50%">
+My site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?).<br>
+<br>
 
 <div align="center">
 <a target="_blank" href="https://xlbrto.com/">
-<img src="https://github.com/xlbrto/personalWebsite/blob/master/assets/images/personalWebsitegif.gif" align="center" style="width: 100%" />
+<img src="https://github.com/xlbrto/personalWebsite/blob/master/assets/images/personalWebsitegif.gif" align="center" style="width: 75%" />
 </a>
-</div>  
-
-
+</div>
+<br>
 </td></tr></table> 
 
 <br/>  
