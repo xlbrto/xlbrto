@@ -33,8 +33,35 @@ Highly logical, flexible and detail-oriented full-stack web developer with a dee
 I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful. I also blog about my world behind the screen which involves privacy, security, software, optimization and also promising technologies like PWAs.
 
 Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
+<br>
+
+<br>
+<h2 align="center">Projects</h2>
+
+<table bordercolor="#66b2b2">
+<table><tr><td valign="top" width="30%">
+<br>
+My personal website was created using the following languages:<br>
+
+<br>
+<div>
+<img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="25" />
+<img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25">
+<img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25">
+</div>
+<br>
+My site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?).
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<a target="_blank" href="https://xlbrto.com/">
+<img src="https://github.com/xlbrto/personalWebsite/blob/master/assets/images/personalWebsitegif.gif" align="center" style="width: 100%" />
+</a>
+</div>  
 
 
+</td></tr></table> 
 
 <br/>  
 
