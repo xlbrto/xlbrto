@@ -40,18 +40,17 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 <br>
 <table bordercolor="#66b2b2">
 </td><td valign="top" width="100%">
-
 <br>
-My personal website was created using the following languages:<br>
+ My site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?). Just having fun with it.<br>
 
-<br>
+<br>  
+<div align="center">
 <div>
 <img style="margin: 10px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="25" />
 <img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25">
 <img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25">
 </div>
-<br>
-My site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?).<br>
+
 <br>
 
 <div align="center">
