@@ -23,7 +23,7 @@
   
 
 
-<h2 align="center">HAPPY TO SEE YOU HERE!</h2>
+<h2 align="center">HAPPY YOU'RE HERE!</h2>
 <br>
 
 I’m a ~~construction worker~~ interior remodeler by day, ~~junior~~ software engineer by night. 
