@@ -1,4 +1,4 @@
-<h1 align="center">hello-world, I'm <a href="https://xlbrto.com/">Alberto</a>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
+<h1 align="center">hello-world, I'm <a href="https://xlbrto.com/">Alberto</a>! <img src="https://raw.githubusercontent.com/xlbrto/personalWebsite/master/assets/images/hello!.gif" width="30"></h1>
   
 <!-- <br>
 <br> -->
