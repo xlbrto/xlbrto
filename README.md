@@ -17,7 +17,8 @@
 </a>
 <a href="https://www.codewars.com/users/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
-</a>
+</a><br>
+<br><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=for-the-badge" height="25"/><br>
 </div> 
 <br>
   
@@ -33,6 +34,7 @@ Highly logical, flexible and detail-oriented full-stack web developer with a dee
 I build robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful. I also blog about my world behind the screen which involves privacy, security, software, optimization and also promising technologies like PWAs.
 
 Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
+
 <br>
 
 <br>
