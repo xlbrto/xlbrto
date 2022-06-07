@@ -18,7 +18,7 @@
 <a href="https://www.codewars.com/users/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
 </a><br>
-<br><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=flat-square"/><br>
+<br><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=flat-square" height="17.5"/><br>
 </div> 
 <!-- <br> -->
 
