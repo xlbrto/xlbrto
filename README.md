@@ -74,7 +74,7 @@ Built with:<br>
 - 🔭 I’m currently working with a freelance client   
   
 
-- 🌱 I’m currently improving my JavaScript skills
+- 🌱 I’m currently improving my JavaScript & Node.js skills
   
 
 - 💬 Ask me about anything related to privacy and encryption .. or anything, really. 
