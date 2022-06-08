@@ -11,13 +11,13 @@
 </a>
 <img src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/>
 </a>
-<a href="https://xlbrto.com/" target="_blank">
-<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://www.codewars.com/users/xlbrto" target="_blank"> -->
 <a href="https://www.linkedin.com/in/xlbrto/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-<!-- <img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" /> -->
+<!-- <a href="https://xlbrto.com/" target="_blank">
+<img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" /> -->
+</a>
+<a href="https://www.codewars.com/users/xlbrto" target="_blank">
+<img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
 </a><br>
 <!-- <br><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=flat-square" height="17.5"/><br> -->
 </div> 
