@@ -169,7 +169,7 @@ Xzntwx5Kq4FN0RY/Dmw1SG2lTB3dFpnNHg==
 
 ## 
 <br>
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado&count=2" align="center" style="width: 100%"/></div>  
+<div align="center"><img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001654.6538e5436cb3437198853eeb18c0dbdc.1543" align="center" style="width: 25%"/></div>  
 
 <br/>
 <!-- Did you really get to the bottom of the code? Shoutout to you. 
