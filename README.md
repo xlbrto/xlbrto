@@ -74,7 +74,7 @@ Built with:<br>
 <tr><td valign="top" width="50%">
 <br>
 
-- 🔭 I’m currently working with a freelance client   
+- 🔭 I’m currently working on my personal project.  
   
 
 - 🌱 I’m currently improving my JavaScript, Node.js & MongoDB skills
