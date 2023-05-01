@@ -28,7 +28,7 @@
 <h2 align="center">HAPPY YOU'RE HERE!</h2>
 <br>
 
-I’m a ~~construction worker~~ interior remodeler by day, ~~junior~~ software engineer by night. 
+I’m a ~~construction worker~~ interior remodeler by day, software developer by night. 
 
 Highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
 
