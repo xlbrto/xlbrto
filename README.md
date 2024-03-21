@@ -169,7 +169,7 @@ Xzntwx5Kq4FN0RY/Dmw1SG2lTB3dFpnNHg==
 
 ## 
 <br>
-<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado" align="center" style="width: 25%"/></div>  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado" align="center" style="width: 300"/></div>  
 
 <br/>
 <!-- Did you really get to the bottom of the code? Shoutout to you. 
