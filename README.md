@@ -28,7 +28,7 @@
 <h2 align="center">HAPPY YOU'RE HERE!</h2>
 <br>
 
-I’m a ~~construction worker~~ interior remodeler by day, software developer by night. 
+I'm Alberto. Software developer, interior remodeler and amateur gamer. 
 
 Highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
 
@@ -169,7 +169,7 @@ Xzntwx5Kq4FN0RY/Dmw1SG2lTB3dFpnNHg==
 
 ## 
 <br>
-<div align="center"><img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001654.6538e5436cb3437198853eeb18c0dbdc.1543" align="center" style="width: 25%"/></div>  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=_coronado" align="center" style="width: 25%"/></div>  
 
 <br/>
 <!-- Did you really get to the bottom of the code? Shoutout to you. 
