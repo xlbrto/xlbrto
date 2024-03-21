@@ -11,8 +11,8 @@
 </a>
 <img src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/>
 </a>
-<a href="https://www.linkedin.com/in/xlbrto/" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.threads.net/@xlbrto" target="_blank">
+<img src=https://img.shields.io/badge/Threads-000?logo=threads&logoColor=fff&style=for-the-badge alt=threads style="margin-bottom: 5px;" />
 <!-- <a href="https://xlbrto.com/" target="_blank">
 <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" /> -->
 </a>
@@ -28,13 +28,13 @@
 <h2 align="center">HAPPY YOU'RE HERE!</h2>
 <br>
 
-I'm Alberto. Software developer, interior remodeler and amateur gamer. 
+Software developer, interior remodeler and amateur gamer. 
 
 Highly logical, flexible and detail-oriented full-stack web developer with a deep interest in data privacy, open source software, encryption and cyber-hygiene. Full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.  
 
 I build robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful. I also blog about my world behind the screen which involves privacy, security, software, optimization and also promising technologies like PWAs.
 
-Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
+Aside from programming, I enjoy [investigating](https://i.redd.it/2mq06n5nbdw61.jpg) stuff, listening to music, singing, playing [Fortnite](https://t.me/xlbrtogaming) and hanging out with my wife and [dog](https://xlbrto.com/assets/images/gallery02/8dd6cd93_original.jpg?v=5af09c1f).
 
 <br>
 
@@ -47,7 +47,7 @@ Aside from programming, I enjoy [researching](https://i.redd.it/2mq06n5nbdw61.jp
 
   
 <div align="center">
-My personal site includes my portfolio, alternative ways of getting in touch with me, link to my blog and a small section called "MySpace" just as a homage to the beginnings (because why not?). <br>
+My personal site includes, albeit small, my portfolio, alternative ways of getting in touch with me and a link to my blog. Among other random things.<br>
 
 <br>
 Built with:<br>
