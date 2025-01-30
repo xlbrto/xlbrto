@@ -1,14 +1,14 @@
 <h1 align="center">hello-world, I'm <a href="https://xlbrto.com/">Alberto</a>! <img src="https://raw.githubusercontent.com/xlbrto/personalWebsite/master/assets/images/hello!.gif" width="30"></h1>
 
 <div align="center">
-<a href="https://instagram.com/xlbrto" target="_blank">
+<!-- <a href="https://instagram.com/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
-</a>
+</a> -->
 <img src="https://img.shields.io/github/last-commit/xlbrto/xlbrto?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/>
 </a>
-<a href="https://www.codewars.com/users/xlbrto" target="_blank">
+<!-- <a href="https://www.codewars.com/users/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
-</a><br>
+</a> --><br>
 </div> 
 <br>
 
