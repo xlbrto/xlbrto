@@ -9,7 +9,8 @@
 <!--  a href="https://twitter.com/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> -->
-<img src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/>
+<!-- <img src="https://img.shields.io/github/last-commit/xlbrto/codeWars?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/> -->
+<img src="https://img.shields.io/github/last-commit/xlbrto/xlbrto?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/>
 </a>
 <a href="https://www.threads.net/@xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Threads-000?logo=threads&logoColor=fff&style=for-the-badge alt=threads style="margin-bottom: 5px;" />
