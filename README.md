@@ -4,7 +4,7 @@
 <!-- <a href="https://instagram.com/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
 </a> -->
-<img src="https://img.shields.io/github/last-commit/xlbrto/pheexer-site?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/github/last-commit/xlbrto/xlbrto?style=for-the-badge" alt=last-commit style="margin-bottom: 5px;"/>
 </a>
 <!-- <a href="https://www.codewars.com/users/xlbrto" target="_blank">
 <img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white alt=codewars style="margin-bottom: 5px;" />
